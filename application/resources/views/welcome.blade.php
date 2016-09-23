@@ -81,6 +81,7 @@
                                 echo "$peoples <br />";
                             };
                     ?>
+
                 </div>
 
                 <div class="links">
