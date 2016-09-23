@@ -75,12 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <?php
-                        foreach ($people as $peoples)
-                            {
-                                echo "$peoples <br />";
-                            };
-                    ?>
+                    About goes here
                 </div>
 
                 <div class="links">
